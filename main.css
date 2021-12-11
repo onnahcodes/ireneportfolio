@@ -1,0 +1,71 @@
+.main-header {
+    background: url(img/pic2.jpg) ;
+    min-height: 800px;
+    background-image: center;
+    background-size: cover;
+    color: white;
+
+}
+
+nav .nav-wrapper .brand-logo{
+    font-family: 'Metamorphous', cursive;
+    color: deeppink;
+}
+
+
+h1{
+    font-family: 'Corinthia', cursive !important;
+    color: deeppink;
+    font-size: 100px;
+    font-weight: bold;
+    min-height: 150px;
+    padding-top: 30px;
+}
+
+h4{
+    font-family: 'Times New Roman';
+}
+p{
+    color: white;
+    text-size-adjust: small;
+    padding: auto;
+}
+
+.card-panel{
+
+    color:  lightpink;
+    
+}
+marquee{
+    font-weight: bolder;
+    color:deeppink ;
+    background-color: palevioletred;
+}
+
+h3{
+    color:deeppink;
+    font-family: 'Dancing Script', cursive;
+}
+
+i{
+    color: deeppink;
+}
+
+h2{
+    background-color: deeppink;
+    font-family: 'Corinthia', cursive !important;
+}
+
+.footer-copyright{
+    background-color: deeppink;
+}
+
+footer{
+    background-color: palevioletred;
+}
+
+.sidenav{
+    background-image: url(img/pic1.jpg);
+    
+    
+}
